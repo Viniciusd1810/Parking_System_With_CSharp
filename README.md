@@ -45,11 +45,3 @@ A simple **Parking Management System** built with C# that allows users to regist
 
 7. **License**  
    - MIT License  
-
----
-
-### Notes
-
-- Do **not** commit `bin/` or `obj/` folders.  
-- Use a `.gitignore` file for C# projects:  
-
